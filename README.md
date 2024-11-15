@@ -54,7 +54,8 @@ This project leverages Groq's powerful LLM model to extract personality traits f
     ```bash
     streamlit run app.py
     ```
-    
+
+<!--     
 ## Installation
 
 ### Clone the repository
@@ -63,7 +64,7 @@ To install Project, follow these steps:
 1. Clone the repository: **`git clone https://github.com/Mehul1611/Book-Affinity.git`**
 2. Navigate to the project directory: **`cd Book-Affinity`**
 4. Create a **`.env`** file in the project directory and add your Groq API key:**`GROQ_API_KEY=your_api_key_here`**
-5. Run the application:**`streamlit run main.py`**
+5. Run the application:**`streamlit run main.py`** -->
 
 ## **Contributing**
 We encourage contributions! If you'd like to improve this project, simply fork the repository, make your changes, and submit a pull request with your enhancements.
