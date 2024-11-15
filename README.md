@@ -30,8 +30,8 @@ This project leverages Groq's powerful LLM model to extract personality traits f
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/MonaniLokesh/CookLens.git
-    cd CookLens
+    git clone https://github.com/Mehul1611/Book-Affinity.git
+    cd Book-Affinity
     ```
 
 2. **Create a virtual environment**:
@@ -52,7 +52,7 @@ This project leverages Groq's powerful LLM model to extract personality traits f
 
 5. **Run the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 <!--     
