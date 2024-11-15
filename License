@@ -1,0 +1,7 @@
+
+### Key Points:
+- **Add New Books**: Users can add a new book to the system by providing its title and summary.
+- **Quiz-based Recommendations**: The system offers quiz-based recommendations after analyzing the user’s responses to book-related questions.
+- **Database Integration**: Books, their extracted traits, and quiz responses are stored in PostgreSQL.
+  
+Ensure you replace placeholders (`your-username`, `your_groq_api_key`, `your_postgresql_database_url`) with actual values when setting up the repository.
