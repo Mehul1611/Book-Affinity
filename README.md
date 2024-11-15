@@ -1,6 +1,6 @@
 # Book-Affinity
 
-This project is designed to extract personality traits from book summaries using the Groq API, process the results, and store them in a PostgreSQL database. The project leverages SQLAlchemy for database interaction and environment variables for secure API key management. It supports trait extraction based on predefined traits, integrates with a PostgreSQL database, and performs data handling without the need for CSV files.
+This project is designed to extract personality traits from book summaries using the Large Language Models, process the results, and store them in a PostgreSQL database. The project leverages SQLAlchemy for database interaction and environment variables for secure API key management. It supports trait extraction based on predefined traits, integrates with a PostgreSQL database, and performs data handling efficiently.
 
 ## Features
 - **Add New Books**: Add books by providing their title and author.
@@ -19,7 +19,6 @@ This project is designed to extract personality traits from book summaries using
 
 ### Clone the repository
 
-cd book-trait-extraction
 To install Project, follow these steps:
 1. Clone the repository: **`git clone https://github.com/Mehul1611/Book-Affinity.git`**
 2. Navigate to the project directory: **`cd Book-Affinity`**
