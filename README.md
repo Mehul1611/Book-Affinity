@@ -27,7 +27,6 @@ To install Project, follow these steps:
 5. Run the application:**`streamlit run main.py`**
 
 ## **Contributing**
-Contributions are welcome! If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
-
+We encourage contributions! If you'd like to improve this project, simply fork the repository, make your changes, and submit a pull request with your enhancements.
 ## **Contact**
 For any questions or feedback, feel free to contact [mehulsharma1116@gmail.com](mailto:mehulsharma1116@gmail.com).
