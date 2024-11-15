@@ -23,7 +23,7 @@ cd book-trait-extraction
 To install Project, follow these steps:
 1. Clone the repository: **`git clone https://github.com/Mehul1611/Book-Affinity.git`**
 2. Navigate to the project directory: **`cd Book-Affinity`**
-4. Create a **`.env`** file in the project directory and add your Groq API key:**`API1=your_api_key_here`**
+4. Create a **`.env`** file in the project directory and add your Groq API key:**`GROQ_API_KEY=your_api_key_here`**
 5. Run the application:**`streamlit run main.py`**
 
 ## **Contributing**
